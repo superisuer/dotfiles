@@ -8,6 +8,7 @@
 ### AUR:
 ```
 ttf-google-sans-code-nf
+zen-browser-bin
 ```
 
 ### PACMAN:

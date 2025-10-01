@@ -1,7 +1,7 @@
 import os
 
 aur_packages = "ttf-google-sans-code-nf zen-browser-bin"
-pacman_packages = "swww kvantum hyprland waybar fastfetch kitty wofi hyprpaper swaync fish pavucontrol ttf-jetbrains-mono ttf-jetbrains-mono-nerd dolphin"
+pacman_packages = "swww kvantum hyprland waybar fastfetch kitty wofi hyprpaper swaync fish pavucontrol ttf-jetbrains-mono ttf-jetbrains-mono-nerd dolphin zen-browser-bin"
 
 print("WELCOME TO THE PACKAGES INSTALLATION, SELECT A OPTION PLEASE")
 
