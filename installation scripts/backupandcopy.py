@@ -53,6 +53,7 @@ def install():
             print("New backups Done!")
 
             os.system("cp -r $HOME/dotfiles/.config/* $HOME/.config/")
+            os.system("cp -r $HOME/dotfiles/base_scripts/scripts $HOME/")
             print("Successfuly installed! do you want to reboot now? (Y/N) if you use anything else nothing will happens")
             choice3 = input()
             if choice3.upper() == "Y":
