@@ -10,7 +10,7 @@ echo "'-----'\`        '-----'      '---'   '---'      '---'   \`--------\` \`'-
 echo "                                                                                        ";
 
 echo "Installing python if necessary"
-pacman -S python --needed
+sudo pacman -S python --needed
 
 echo "Starting packages install the dotfiles NEED to be in your HOME path"
 python $HOME/dotfiles/"installation scripts"/packages.py
